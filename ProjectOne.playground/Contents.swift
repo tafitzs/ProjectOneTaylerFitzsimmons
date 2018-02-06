@@ -15,11 +15,9 @@ var thirdString = firstString + secondString
 print(thirdString)
 
 //Variable Coding Challenge #2
-let C = "celsius"
-let (fahrenheit - 32)/1.8
-let fahrenheit = 50
-print("Today is celsisus )
-
+let fahrenheit: Float = 50
+let celsius = (fahrenheit-32)*5/9
+print("Today is \(celsius) degrees celsius.")
 
 
 
